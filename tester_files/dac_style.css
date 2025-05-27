@@ -1,0 +1,15 @@
+.red{
+	color: red;
+}
+.d_form label{
+	font-weight: bold;
+}
+.d_form div{
+	margin-bottom: 20px;
+}
+.d_button{
+	color: #fff;
+	background-color: #066aab;
+	border-radius: 5px;
+	border: none;
+}
